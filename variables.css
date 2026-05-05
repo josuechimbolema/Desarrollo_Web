@@ -1,0 +1,11 @@
+:root {
+    --primary: #16a34a;
+    --primary-hover: #15803d;
+    --error: #ef4444;
+    --success: #10b981;
+    --bg-gradient: linear-gradient(135deg, #065f46, #16a34a);
+    --text-main: #1f2937;
+    --input-border: #bbf7d0;
+    --radius: 12px;
+    --shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
